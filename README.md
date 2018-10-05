@@ -10,11 +10,29 @@ Los primeros 20 minutos del taller los dedicaremos a entregarte los conceptos b�
 Finalizado el demo realizaremos un conjunto variado de actividades para transmitir y leer información a través de la red utilizando MQTT
 
 # Actividad: Enviar un número
+Envia un número al tópico `rcr/numero/XX`, cambiando `XX` por 01, 02, ... según te lo indiquen. El docente mostrará una página con los números que se están recibiendo.
+Utiliza Node-Red, MQTT Fx y MQTT Dash para desarrollar la actividad
 
 ![](images/Actividad-Enviar-Numero-01.png)
-<br/>
+<br />
+<br />
 ![](images/Actividad-Enviar-Numero-02.png)
-<br/>
+<br />
+<br />
 ![](images/Actividad-Enviar-Numero-03.png)
 
-# Actividad:
+# Actividad:Leer una estación meteorológica
+Lee los datos de la estación meteorológica que publica sus datos en el tópico `rcr/weather`. Es importante señalar que los datos son enviados en formato JSON.
+Utiliza Node-Red, MQTT Fx y MQTT Dash para desarrollar la actividad
+
+![](images/Actividad-Estacion-01.png)
+<br />
+<br />
+![](images/Actividad-Estacion-02.png)
+<br />
+<br />
+![](images/Actividad-Estacion-03.png)
+<br />
+<br />
+![](images/Actividad-Estacion-04.png)
+
