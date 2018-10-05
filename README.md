@@ -14,11 +14,7 @@ Envia un número al tópico `rcr/numero/XX`, cambiando `XX` por 01, 02, ... seg�
 Utiliza Node-Red, MQTT Fx y MQTT Dash para desarrollar la actividad
 
 ![](images/Actividad-Enviar-Numero-01.png)
-<br />
-<br />
 ![](images/Actividad-Enviar-Numero-02.png)
-<br />
-<br />
 ![](images/Actividad-Enviar-Numero-03.png)
 
 # Actividad:Leer una estación meteorológica
@@ -26,21 +22,13 @@ Lee los datos de la estación meteorológica que publica sus datos en el tópico
 Utiliza Node-Red, MQTT Fx y MQTT Dash para desarrollar la actividad
 
 ![](images/Actividad-Estacion-01.png)
-<br />
-<br />
 ![](images/Actividad-Estacion-02.png)
-<br />
-<br />
 ![](images/Actividad-Estacion-03.png)
-<br />
 ![](images/Actividad-Estacion-04.png)
 
 # Actividad: Transmisión y recepción de video
 Lee la data que se transmitirá en el tópico `rcr/video`. Utiliza Node-Red y MQTT Dash
 
 ![](images/Actividad-Video-01.png)
-<br />
-<br />
 ![](images/Actividad-Video-02.png)
-
 
