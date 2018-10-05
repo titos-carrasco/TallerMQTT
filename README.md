@@ -33,6 +33,14 @@ Utiliza Node-Red, MQTT Fx y MQTT Dash para desarrollar la actividad
 <br />
 ![](images/Actividad-Estacion-03.png)
 <br />
-<br />
 ![](images/Actividad-Estacion-04.png)
+
+# Actividad: Transmisión y recepción de video
+Lee la data que se transmitirá en el tópico `rcr/video`. Utiliza Node-Red y MQTT Dash
+
+![](images/Actividad-Video-01.png)
+<br />
+<br />
+![](images/Actividad-Video-02.png)
+
 
