@@ -3,6 +3,8 @@
 #include <Wire.h>
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
+
+// la version 6 de esta libreria esta en beta. instalar la 5
 #include <ArduinoJson.h>
 
 // objetos para la WiFi y el broker MQTT

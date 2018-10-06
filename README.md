@@ -32,3 +32,22 @@ Lee la data que se transmitirá en el tópico `rcr/video`. Utiliza Node-Red y MQ
 ![](images/Actividad-Video-01.png)
 ![](images/Actividad-Video-02.png)
 
+# Actividad: Desplegar humedad y temperatura
+
+Construye un programa en python que lea la data, en formato JSON, trasmitida por por un nodo que manipula un sensor DHT22 (puedes visualizarla previamente con alguna otra herramienta)
+
+![](images/Actividad-DHT22.png)
+
+# Actividad: Demo de envio de datos en Python
+
+Este demo te mostrará como enviar datos desde Python hacia un tópico en el que espera un controlador que manipula una matriz de LEDs
+
+![](images/Actividad-max7219-01.png)
+![](images/Actividad-max7219-02.png)
+
+# Actividad: Demo de control del Scribbler2
+
+![](images/Actividad-S2-01.png)
+![](images/Actividad-S2-01.png)
+
+
