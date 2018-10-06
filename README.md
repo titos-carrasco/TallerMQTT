@@ -9,6 +9,9 @@ Los primeros 20 minutos del taller los dedicaremos a entregarte los conceptos b�
 
 Finalizado el demo realizaremos un conjunto variado de actividades para transmitir y leer información a través de la red utilizando MQTT
 
+# Actividad: Demo de TTS
+Te mostraremos como generar alertas de voz con MQTT y cualquier software TTS
+
 # Actividad: Enviar un número
 Envia un número al tópico `rcr/numero/XX`, cambiando `XX` por 01, 02, ... según te lo indiquen. El docente mostrará una página con los números que se están recibiendo.
 Utiliza Node-Red, MQTT Fx y MQTT Dash para desarrollar la actividad
